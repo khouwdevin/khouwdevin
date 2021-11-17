@@ -7,6 +7,7 @@
 <img align="left" alt="khouwdevin Github Stats" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=khouwdevin&show_icons=true&hide_border=true&theme=tokyonight"/>
 
 <br/>
+<br/>
 
 ---
 <img align="left" alt="khouwdevin Github Language" style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khouwdevin&layout=compact&show_icons=true&hide_border=true&theme=tokyonight"/>
