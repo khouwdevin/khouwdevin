@@ -4,9 +4,11 @@
 - 📫 How to reach me khouwdevin@gmail.com or instagram.com/khouwdevin
 
 ---
+<br>
 <img align="left" alt="khouwdevin Github Stats" src="https://github-readme-stats.vercel.app/api?username=khouwdevin&show_icons=true&hide_border=true"/>
 
 ---
+<br>
 <img align="left" alt="khouwdevin Github Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khouwdevin"/>
 <!---
 khouwdevin/khouwdevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
