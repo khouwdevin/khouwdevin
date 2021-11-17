@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @khouwdevin
 - 👀 I’m interested in game development and AI
 - 🌱 I’m currently learning game development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khouwdevin@gmail.com or instagram.com/khouwdevin
 
 ---
