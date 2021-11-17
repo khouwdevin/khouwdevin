@@ -4,7 +4,7 @@
 - 📫 How to reach me khouwdevin@gmail.com or <a href="https://www.instagram.com/khouwdevin/">instagram.com/khouwdevin</a>
 
 ---
-<img align="left" alt="khouwdevin Github Stats" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=khouwdevin&show_icons=true&hide_border=true&theme=tokyonight"/>\
+<img align="left" alt="khouwdevin Github Stats" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=khouwdevin&show_icons=true&hide_border=true&theme=tokyonight"/>__
 
 ---
 <img align="left" alt="khouwdevin Github Language" style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khouwdevin&layout=compact&show_icons=true&hide_border=true&theme=tokyonight"/>
