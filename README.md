@@ -1,14 +1,27 @@
-# Hello!
+### Hello!
 
-### Programmer || Musician
+#### Programmer || Musician
 
 - 👋 Hi, I’m @khouwdevin
 - 👀 I’m interested in game development and AI
 - 🌱 I’m currently learning game development
-- 🌐 My website my website [khouwdevin.com](https://khouwdevin.com)
+- 🌐 My website [khouwdevin.com](https://khouwdevin.com)
 - 📫 How to reach me khouwdevin@gmail.com or <a href="https://www.instagram.com/khouwdevin/">instagram.com/khouwdevin</a>
 
 ---
+
+#### Frameworks, Databases and etc
+
+- Next.js & Chakra UI (website)
+- Flutter (hybrid mobile for IOS and Android)
+- Unity (game development)
+- Node js (backend)
+- Express js (APIs)
+- Firebase (database, authentication and etc)
+
+---
+
+
 <img alt="khouwdevin Github Stats" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=khouwdevin&show_icons=true&hide_border=true&theme=tokyonight"/>
 
 ---
