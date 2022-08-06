@@ -2,11 +2,11 @@
 
 #### Programmer || Musician
 
-- 👋 Hi, I’m @khouwdevin
-- 👀 I’m interested in game development and AI
-- 🌱 I’m currently learning game development
+- 👋 Hi, I’m Devin
+- 👀 I’m interested in game development, web mobile development, and AI
+- 🌱 I’m currently learn game development
 - 🌐 My website [khouwdevin.com](https://khouwdevin.com)
-- 📫 How to reach me khouwdevin@gmail.com or <a href="https://www.instagram.com/khouwdevin/">instagram.com/khouwdevin</a>
+- 📫 How to reach me khouwdevin@gmail.com or [instagram.com/khouwdevin](https://www.instagram.com/khouwdevin/)
 
 ---
 
