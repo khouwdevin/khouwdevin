@@ -8,7 +8,7 @@
 - 👀 I’m interested in game development, web mobile development, and AI
 - 🌱 I’m currently learn game development
 - 🌐 My website [khouwdevin.com](https://khouwdevin.com)
-- 📫 How to reach me khouwdevin@gmail.com or [instagram.com/khouwdevin](https://www.instagram.com/khouwdevin/)
+- 📫 How to reach me khouwdevin@gmail.com or [instagram.com/khouwdevin](https://www.instagram.com/khouwdevin/) or [khouwdevin.com/message](https://khouwdevin.com/message)
 
 
 ## 🌐 Socials:
