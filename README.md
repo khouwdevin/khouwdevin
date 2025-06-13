@@ -1,5 +1,3 @@
-# About Me:
-
 ### Hello!
 
 #### Programmer || Musician
@@ -27,6 +25,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khouwdevin&theme=nightowl&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khouwdevin&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=khouwdevin&label=Github%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
