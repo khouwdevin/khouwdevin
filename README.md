@@ -1,6 +1,6 @@
 ### Hello!
 
-#### Programmer || Musician
+#### Software Engineer || Musician
 
 - 👋 Hi, I’m Devin
 - 👀 I’m interested in game development, web mobile development, and AI
